@@ -1,7 +1,5 @@
 # https://leetcode.com/problems/maximum-number-of-visible-points/
 
-.................................................................
-
 class Solution:
     def visiblePoints(self, points: List[List[int]], angle: int, location: List[int]) -> int:
         
